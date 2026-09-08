@@ -179,9 +179,9 @@ namespace Tic_Tac_Toe_Game
             if (btn1.Tag.ToString() != "?" && btn1.Tag.ToString() == btn2.Tag.ToString() && btn1.Tag.ToString() == btn3.Tag.ToString())
             {
 
-                btn1.BackColor = Color.FromArgb(255, 232, 60, 52);
-                btn2.BackColor = Color.FromArgb(255, 232, 60, 52);
-                btn3.BackColor = Color.FromArgb(255, 232, 60, 52);
+                btn1.BackColor = Color.Yellow;
+                btn2.BackColor = Color.Yellow;
+                btn3.BackColor = Color.Yellow;
 
                 if (btn1.Tag.ToString() == "X")
                 {
@@ -281,7 +281,7 @@ namespace Tic_Tac_Toe_Game
 
         private void RestButton(Button btn)
         {
-            btn.Image = null;
+            btn.Image = Properties.Resources.question_mark_96;
             btn.Tag = "?";
             btn.BackColor = Color.Transparent;
         }
