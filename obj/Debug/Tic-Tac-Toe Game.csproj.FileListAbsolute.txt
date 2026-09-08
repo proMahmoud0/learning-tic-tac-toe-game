@@ -2,9 +2,9 @@ C:\Users\jackj\source\repos\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe.conf
 C:\Users\jackj\source\repos\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.exe
 C:\Users\jackj\source\repos\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game.pdb
 C:\Users\jackj\source\repos\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.AssemblyReference.cache
-C:\Users\jackj\source\repos\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Form1.resources
 C:\Users\jackj\source\repos\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
 C:\Users\jackj\source\repos\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.GenerateResource.cache
 C:\Users\jackj\source\repos\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.CoreCompileInputs.cache
 C:\Users\jackj\source\repos\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.exe
 C:\Users\jackj\source\repos\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.pdb
+C:\Users\jackj\source\repos\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game.frmTicTacToe.resources

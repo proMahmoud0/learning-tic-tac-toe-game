@@ -21,7 +21,7 @@ A classic **Tic-Tac-Toe** game featuring a retro-style GUI built with C# and .NE
 
 * **Language:** C#
 * **Framework:** .NET Framework (Windows Forms)
-* **IDE:** Visual Studio 2026
+* **IDE:** Visual Studio 2019 / 2026
 
 ---
 

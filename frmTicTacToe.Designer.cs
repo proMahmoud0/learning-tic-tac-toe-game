@@ -2,7 +2,7 @@
 
 namespace Tic_Tac_Toe_Game
 {
-    partial class Form1
+    partial class frmTicTacToe
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@ namespace Tic_Tac_Toe_Game
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmTicTacToe));
             this.button9 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
@@ -276,7 +276,7 @@ namespace Tic_Tac_Toe_Game
             this.label1.Text = "Tic Tac Toe Game";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // Form1
+            // frmTicTacToe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -299,7 +299,7 @@ namespace Tic_Tac_Toe_Game
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form1";
+            this.Name = "frmTicTacToe";
             this.Text = "Tic-Tac-Toe Game";
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
             this.ResumeLayout(false);
